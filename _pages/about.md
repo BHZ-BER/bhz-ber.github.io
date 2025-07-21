@@ -5,12 +5,12 @@ permalink: /
 subtitle: 
   Assistant Professor at <a href='https://www.ece.uw.edu/'>University of Washington, ECE Department</a>.<br>
   Adjunct Professor at <a href='https://www.cs.washington.edu/'>University of Washington, CSE Department</a>.<br>
-  Cofounder at <a href='https://nexusflow.ai/'>Nexusflow AI</a>.  
+  Principal Research Scientist at Nvidia.<br>
 
 profile:
   align: right
-  image: bio.jpg
-  image_circular: false # crops the image to make it circular
+  image: bio2.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
     
 
@@ -20,17 +20,23 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-I'm an incoming assistant professor at UW ECE, with adjunct appointments in CSE.
+I'm an assistant professor at UW ECE, with adjunct appointments in CSE. I lead the Foundation Model and Reinforcement Learning Research Lab (FMRL2) at UW. 
 
+<p style="color:red;">I am actively recruiting visiting students, PhD students, and postdoctoral researchers at the UW to work with me on LLMs, with a focus on post-training, agent, machine learning systems, or the evaluation of LLMs. If you are interested, please send me an email.</p>
 
-I co-founded [Nexusflow AI](https://nexusflow.ai/) in 2023, which provides reliable AI agent solutions for enterprise use-cases.
+I am also a principal research scientist at Nvidia. I work on star-Nemotron post-training, with a focus on reinforcement learning, agentic systems, and science of model evaluation.  
+I also co-founded [Nexusflow AI](https://nexusflow.ai/) in 2023, which provides reliable AI agent solutions for enterprise use-cases.
 
 
 I received my PhD from the Department of EECS, UC Berkeley. I am very fortunate to have been advised by [Prof. Jiantao Jiao](https://people.eecs.berkeley.edu/~jiantao/) and [Prof. Michael I. Jordan](http://people.eecs.berkeley.edu/~jordan/). I am a recipient of the [2023 David J. Sakrison Memorial Prize](https://www2.eecs.berkeley.edu/Students/Awards/17/) from Berkeley EECS for truly outstanding PhD research.
 
+
+
+
+
 ## Research Interests
 
-I'm currently interested in the **theoretical foundations, training, serving, evaluation, and applications of foundation models**. I have also been working on **statistics**, **information theory**, and **machine learning**, with applications in game theory, robust statistics, reinforcement learning, and human-AI interactions.
+I'm currently interested in the **theoretical foundations, training, serving, evaluation, and applications of foundation models**. In the past, I have also been working on **statistics**, **information theory**, and **machine learning**, with applications in game theory, robust statistics, reinforcement learning, and human-AI interactions in the past.
 
 ---
 
@@ -52,7 +58,8 @@ I'm currently interested in the **theoretical foundations, training, serving, ev
 - [**Huggingface Function Calling Leaderboard**](https://huggingface.co/spaces/Nexusflow/Nexus_Function_Calling_Leaderboard): Used in the Llama-3.1 technical report for evaluating function-calling capabilities.
 - [**Chatbot Arena**](https://chat.lmsys.org/): One of the most reliable platforms for evaluating models with human preferences.
 - [**Arena-Hard-Auto**](https://github.com/lm-sys/arena-hard-auto): An automatic benchmark creation pipeline that uses LLM-as-a-judge to quickly evaluate model performance.
-- [**Preference Proxy Evaluations**](https://arxiv.org/abs/2410.14872): A high-quality evaluation pipeline for reward models in RLHF that correlates very well with downstream RL performance. 
+- [**Preference Proxy Evaluations**](https://arxiv.org/abs/2410.14872): A high-quality evaluation pipeline for reward models in RLHF that correlates very well with downstream RL performance.
+- [**MMMG**](https://arxiv.org/abs/2505.17613): A comprehensive and reliable evaluation suite for Multitask Multimodal Generation.
 
 ---
 
