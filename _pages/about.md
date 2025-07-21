@@ -5,7 +5,7 @@ permalink: /
 subtitle: 
   Assistant Professor at <a href='https://www.ece.uw.edu/'>University of Washington, ECE Department</a>.<br>
   Adjunct Professor at <a href='https://www.cs.washington.edu/'>University of Washington, CSE Department</a>.<br>
-  Principal Research Scientist at Nvidia.<br>
+  Principal Research Scientist at Nvidia.
 
 profile:
   align: right
