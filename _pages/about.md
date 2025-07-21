@@ -31,7 +31,7 @@ I also co-founded [Nexusflow AI](https://nexusflow.ai/) in 2023, which provides 
 I received my PhD from the Department of EECS, UC Berkeley. I am very fortunate to have been advised by [Prof. Jiantao Jiao](https://people.eecs.berkeley.edu/~jiantao/) and [Prof. Michael I. Jordan](http://people.eecs.berkeley.edu/~jordan/). I am a recipient of the [2023 David J. Sakrison Memorial Prize](https://www2.eecs.berkeley.edu/Students/Awards/17/) from Berkeley EECS for truly outstanding PhD research.
 
 
-
+News: Checkout our new short course on [Post-training of LLMs](https://www.deeplearning.ai/short-courses/post-training-of-llms/), co-taught with Andrew Ng on Deeplearning.ai!
 
 
 ## Research Interests
