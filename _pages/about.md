@@ -3,8 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle: 
-  Assistant Professor at <a href='https://www.ece.uw.edu/'>University of Washington</a>.<br>
   Principal Research Scientist at Nvidia.
+  Incoming Assistant Professor at <a href='https://www.ece.uw.edu/'>University of Washington</a>.<br>
 
 profile:
   align: right
@@ -19,9 +19,10 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-I'm an assistant professor at UW ECE, with adjunct appointment in CSE. I lead the Foundation Model and Reinforcement Learning Research Lab (FMRL2) at UW. 
+I am a principal research scientist at Nvidia. I work on star-Nemotron post-training, with a focus on reinforcement learning, agentic systems, and science of model evaluation.
 
-I am also a principal research scientist at Nvidia. I work on star-Nemotron post-training, with a focus on reinforcement learning, agentic systems, and science of model evaluation.  
+I'm also an incoming assistant professor at University of Washington. I lead the Foundation Model and Reinforcement Learning Research Lab (FMRL2) at UW. 
+  
 
 Prior to that, I co-founded [Nexusflow AI](https://nexusflow.ai/) in 2023, which provides reliable AI agent solutions for enterprise use-cases.
 
