@@ -31,10 +31,6 @@ I received my PhD from the Department of EECS, UC Berkeley. I am very fortunate 
 
 News: Checkout our new short course on [Post-training of LLMs](https://www.deeplearning.ai/short-courses/post-training-of-llms/), co-taught with Andrew Ng on Deeplearning.ai!
 
-
-<p style="color:red;">I am actively recruiting visiting students, PhD students, and postdoctoral researchers at UW to work with me on LLMs, with a focus on post-training, agent, machine learning systems, or the evaluation of LLMs. If you are interested, please send me an email.</p>
-
-
 ## Research Interests
 
 I'm currently interested in the **theoretical foundations, training, serving, evaluation, and applications of foundation models**. In the past, I have also been working on **statistics**, **information theory**, and **machine learning**, with applications in game theory, robust statistics, reinforcement learning, and human-AI interactions in the past.
