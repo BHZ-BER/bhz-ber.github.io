@@ -194,7 +194,9 @@ exclude:
   - README.md
   - readme_preview/
   - _pages/repositories.md
-  # - _includes/repository/  # enabled for repo cards on about page
+  - _includes/repository/
+  - _pages/publications.md
+  - _pages/teaching.md
   - vendor
   
 keep_files:
