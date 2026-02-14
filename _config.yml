@@ -8,11 +8,11 @@ middle_name:
 last_name: Zhu
 contact_note: >
  Contact me via myfirstname@uw.edu
-description: The personal homepage of Banghua Zhu, assistant professor at UW and co-founder at Nexusflow.
-footer_text: The personal homepage of Banghua Zhu, assistant professor at UW and co-founder at Nexusflow.
-keywords: LLM, AI, artificial intelligence, foundation models, Banghua Zhu, University of Washington, Nexusflow # add your own keywords or leave empty
+description: The personal homepage of Banghua Zhu, CTO & co-founder of RadixArk, incoming assistant professor at UW.
+footer_text: The personal homepage of Banghua Zhu, CTO & co-founder of RadixArk.
+keywords: LLM, AI, artificial intelligence, foundation models, AI infrastructure, SGLang, inference, reinforcement learning, Banghua Zhu, RadixArk, University of Washington # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: radixark_logo.avif # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://banghua.me #https://bhz-ber.github.io # # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -194,7 +194,7 @@ exclude:
   - README.md
   - readme_preview/
   - _pages/repositories.md
-  - _includes/repository/
+  # - _includes/repository/  # enabled for repo cards on about page
   - vendor
   
 keep_files:
