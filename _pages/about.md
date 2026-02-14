@@ -22,9 +22,6 @@ I'm the CTO & co-founder of [RadixArk](https://www.radixark.ai/), where we're br
 
 Our team is composed of the creators and core developers of [SGLang](https://sglang.ai/)---one of the leading open-source LLM inference engines---and [Miles](https://github.com/radixark/miles), our open-source reinforcement learning framework.
 
-Featured: Check out our short course on [Post-training of LLMs](https://www.deeplearning.ai/short-courses/post-training-of-llms/), co-taught with Andrew Ng on DeepLearning.AI.
-{: .alert .alert-info}
-
 If you're interested in what we're building, come [join our SGLang Slack](https://sgl-fru7574.slack.com/join/shared_invite/zt-3nodi6ndx-z~VnhhqrCbdjPMdBgVjyqg#/shared-invite/email) and help shape the ecosystem.
 
 **We're hiring.** If you want to push the frontier of open AI infrastructure, [see open roles at RadixArk](https://www.radixark.ai/career).
@@ -34,9 +31,31 @@ If you're interested in what we're building, come [join our SGLang Slack](https:
 
 ## Open Source
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo.liquid repository="sgl-project/sglang" %}
-  {% include repository/repo.liquid repository="radixark/miles" %}
+<div class="row mt-3 mb-3">
+  <div class="col-sm-6 mb-3">
+    <div class="card h-100">
+      <div class="card-body">
+        <h5 class="card-title"><a href="https://github.com/sgl-project/sglang">sgl-project/sglang</a></h5>
+        <p class="card-text">Fast serving framework for large language models and vision language models.</p>
+        <a href="https://github.com/sgl-project/sglang">
+          <img src="https://img.shields.io/github/stars/sgl-project/sglang?style=social" alt="GitHub stars">
+          <img src="https://img.shields.io/github/forks/sgl-project/sglang?style=social" alt="GitHub forks">
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6 mb-3">
+    <div class="card h-100">
+      <div class="card-body">
+        <h5 class="card-title"><a href="https://github.com/radixark/miles">radixark/miles</a></h5>
+        <p class="card-text">Open-source reinforcement learning framework.</p>
+        <a href="https://github.com/radixark/miles">
+          <img src="https://img.shields.io/github/stars/radixark/miles?style=social" alt="GitHub stars">
+          <img src="https://img.shields.io/github/forks/radixark/miles?style=social" alt="GitHub forks">
+        </a>
+      </div>
+    </div>
+  </div>
 </div>
 
 ---
@@ -49,6 +68,8 @@ Previously, I co-founded [Nexusflow AI](https://nexusflow.ai/) in 2023, providin
 
 I received my PhD from the Department of EECS, UC Berkeley, advised by [Prof. Jiantao Jiao](https://people.eecs.berkeley.edu/~jiantao/) and [Prof. Michael I. Jordan](http://people.eecs.berkeley.edu/~jordan/). I am a recipient of the [2023 David J. Sakrison Memorial Prize](https://www2.eecs.berkeley.edu/Students/Awards/17/) from Berkeley EECS for truly outstanding PhD research.
 
+Check out our short course on [Post-training of LLMs](https://www.deeplearning.ai/short-courses/post-training-of-llms/), co-taught with Andrew Ng on DeepLearning.AI.
+
 ---
 
 ## Select Past Work
@@ -59,4 +80,3 @@ I received my PhD from the Department of EECS, UC Berkeley, advised by [Prof. Ji
 - **[S-LoRA](https://arxiv.org/abs/2311.03285)** --- Scalable serving of thousands of LoRA adaptors.
 - **[Fundamental Limits of RLHF](https://arxiv.org/abs/2301.11270)** --- Identified theoretical limits and near-optimal algorithms for RLHF.
 - **[LLM Watermarking](https://arxiv.org/abs/2312.07930)** --- Statistically near-optimal algorithm for LLM watermarking.
-
