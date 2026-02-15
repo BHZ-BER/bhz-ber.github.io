@@ -25,7 +25,6 @@ Our team is composed of the creators and core developers of [SGLang](https://sgl
 If you're interested in what we're building, come [join our SGLang Slack](https://sgl-fru7574.slack.com/join/shared_invite/zt-3nodi6ndx-z~VnhhqrCbdjPMdBgVjyqg#/shared-invite/email) and help shape the ecosystem.
 
 **We're hiring.** If you want to push the frontier of open AI infrastructure, [see open roles at RadixArk](https://www.radixark.ai/career).
-{: .alert .alert-success}
 
 ---
 
